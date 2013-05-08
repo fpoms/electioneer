@@ -1,0 +1,13 @@
+.banner {
+    text-align: center;
+    font-family: "Raleway", serif;
+    font-weight: 400;
+    font-size: 200%;
+    font-style: italic;
+    padding-top: 5%;
+}
+
+@font-face {
+    font-family: "Raleway";
+    src: url("Raleway Thin.ttf");
+}
