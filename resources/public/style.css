@@ -1,10 +1,16 @@
-.banner {
-    text-align: center;
-    font-family: "Raleway", serif;
-    font-weight: 400;
+.bannerBar {
+    background-color: rgb(70, 210, 70);
+    clear: both;
+}
+
+#bannerLogo {
+    font-family: "Raleway", sans-serif;
     font-size: 200%;
-    font-style: italic;
-    padding-top: 5%;
+    float: left;
+}
+
+.fixed_elem {
+    position: fixed !important;
 }
 
 @font-face {
